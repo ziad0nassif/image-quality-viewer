@@ -1,5 +1,4 @@
 # Image Viewer Application
-### This project is a simple image viewer application built with Python and PyQt5, designed to load and display images using a user-friendly graphical interface. It supports opening images, zooming, and provides a file dialog for selecting image files from the system.
 
 ## Introduction
 ### This project is a simple image viewer application built with Python and PyQt5, designed to load and display images using a user-friendly graphical interface. It supports opening images, zooming, and provides a file dialog for selecting image files from the system. The Image Viewer Application allows users to open, view, and make some adjusments we will mention it later. It provides a straightforward interface to navigate through directories and select images for viewing. This project is a great example of using PyQt5 to create desktop GUI applications in Python.
